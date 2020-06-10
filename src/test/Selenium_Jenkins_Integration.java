@@ -21,7 +21,7 @@ public class Selenium_Jenkins_Integration {
 		public void setUp() {
 		
 		System.setProperty("webdriver.chrome.driver", 
-				"/Users/user1/Documents/selenium dependencies/drivers/chromedriver");
+				"/Users/user1/Documents/selenium_dependencies/drivers/chromedriver");
 		
 		 driver = new ChromeDriver();
 		
